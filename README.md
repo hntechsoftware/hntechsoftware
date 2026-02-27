@@ -5,7 +5,7 @@
 
 <hr>
 
-- 🔭 I’m currently working on [Blueconda Editor](https://github.com/hntechsoftware/Blueconda), a beginner-oriented Python Code Editor    <sub>(if you work at JetBrains please hire me)</sub>
+- 🔭 I’m currently working on [Blueconda Editor](https://github.com/hntechsoftware/Blueconda-Editor), a beginner-oriented Python Code Editor    <sub>(if you work at JetBrains please hire me)</sub>
 
 - 💻 I mostly do **desktop app development** (Python & Tkinter) and **Embedded Systems development** (Arduinos, ESP32s)
   Other stuff I've dabbled in include **Web Development** (without much JS) and **Game Development** (Unity and C#)
