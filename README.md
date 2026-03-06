@@ -9,6 +9,7 @@
 
 - 💻 I mostly do **desktop app development** (Python & Tkinter) and **Embedded Systems development** (Arduinos, ESP32s)
   Other stuff I've dabbled in include **Web Development** (without much JS) and **Game Development** (Unity and C#)
+- I upload only my **open-source** work to GitHub
 
 - 🌱 I’m currently learning **Rust, Swift, & AVR Assembly.**
 
