@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at my site: [HNTech.](https://hntechsoftware.github.io)
 
-- 📝 I regularly write articles in my local community on: **RPTDigital**. <sub>Weebly no longer works in my region.</sub>
+- 📝 I regularly write articles in my local community on: **RPTDigital**. <sub>Website defunct, Weebly no longer operates in my region.</sub>
 
 - 📖 Check out my books on: [Amazon & Kindle.](https://www.amazon.com/s?k=Muhammad+Hamza+Naveed)
 
